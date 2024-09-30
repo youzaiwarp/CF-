@@ -97,8 +97,9 @@ _worker.zip 压缩包
 3
 3
 
-部署方式三
+部署方式三   
 
+  使用 Cloudflare平台 Worker 快捷部署订阅节点   
 准备材料:
 
 注册GitHub
@@ -117,7 +118,6 @@ https://www.uuidgenerator.net/
 Github  仓库名 CF-  里 直接下载  _worker.js 文件
 
 
-使用 Cloudflare平台 Worker 快捷部署订阅节点
 
 在 Cloudflare Workers 和 Pages 控制台中 创建Worker。
 
