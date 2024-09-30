@@ -1,5 +1,7 @@
 仅供本人工作学习使用,他人请勿使用和传播.
 
+
+
 部署方法一
 使用 Cloudflare平台pages的Git功能导入GitHub仓库快捷部署订阅节点
 项目本地化部署不使用订阅器、节点转换等第三方外链引用 无需担心节点订阅被白嫖
@@ -20,6 +22,8 @@ https://www.uuidgenerator.net/
 2 Cloudflare workers和pages 里 点创建 Pages 选连接到Git，添加帐户GitHub 帐户 登录  
 选中[复制/Fork/分支/分叉]仓库名CF-  点击 开始设置.
 设置构建和部署页面下方，选择 环境变量（高级）后并 添加变量 变量名称填写UUID，值则为你的UUID，后点击 保存并部署即可。
+
+
 
 
 部署方式二
@@ -67,6 +71,7 @@ _worker.zip 压缩包
 
 
 
+
 部署方式三
 准备材料:
 注册GitHub
@@ -98,6 +103,7 @@ ctrl+c 复制  ctrl+v粘贴
 
 
  https://你的项目名.pages.dev 加上 /你的uuid     获取 你的部署信息
+
 
 
 
