@@ -1,4 +1,5 @@
 仅供本人工作学习使用,他人请勿使用和传播.
+
 使用 Cloudflare平台pages的Git功能导入GitHub仓库快捷部署订阅节点
 项目本地化部署不使用订阅器、节点转换等第三方外链引用 无需担心节点订阅被白嫖
 准备材料:
@@ -6,7 +7,7 @@
 https://github.com/
 
 下载GitHub app  可下可不下 可做验证用 省去验证码环节
-https://play.google.com/store/apps/details?id=com.github.android
+ https://play.google.com/store/apps/details?id=com.github.android
 
 注册cloudflare
 https://www.cloudflare.com/zh-cn/
