@@ -17,8 +17,11 @@ https://www.cloudflare.com/zh-cn/
 https://www.uuidgenerator.net/
 
 1 Github   [复制/Fork/分支/分叉]  仓库名 CF-  
+
 2 Cloudflare workers和pages 里 点创建 Pages 选连接到Git，添加帐户GitHub 帐户 登录  
+
 选中[复制/Fork/分支/分叉]仓库名CF-  点击 开始设置.
+
 设置构建和部署页面下方，选择 环境变量（高级）后并 添加变量 变量名称填写UUID，值则为你的UUID，后点击 保存并部署即可。
 
 
